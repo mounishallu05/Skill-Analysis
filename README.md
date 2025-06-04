@@ -2,7 +2,7 @@
 
 A powerful tool that helps professionals identify skill gaps by comparing their LinkedIn profile skills against industry demands.
 
-## 🎯 Features
+## Features
 
 - LinkedIn Profile Analysis
   - Extract skills from public profiles or uploaded PDFs
@@ -24,7 +24,7 @@ A powerful tool that helps professionals identify skill gaps by comparing their 
   - Track skill trends
   - Generate detailed reports
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ A powerful tool that helps professionals identify skill gaps by comparing their 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [[repository-url](https://github.com/mounishallu05/Skill-Analysis/edit/main/README.md)]
 cd linkedin-skill-analysis
 ```
 
@@ -76,7 +76,7 @@ python src/main.py
 
 4. View your skill analysis and recommendations
 
-## 📊 Project Structure
+##  Project Structure
 
 ```
 linkedin-skill-analysis/
@@ -92,17 +92,14 @@ linkedin-skill-analysis/
 └── docs/              # Documentation
 ```
 
-## ⚠️ Important Notes
+## ⚠Important Notes
 
 - This tool is for educational and personal use only
 - Respect LinkedIn's Terms of Service when scraping
 - Use responsibly and ethically
 - Consider rate limiting and data privacy
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
